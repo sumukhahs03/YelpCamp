@@ -62,7 +62,7 @@ To see the app in action, go to [https://yelpcamp--demo.herokuapp.com/](https://
 ### Clone or download this repository
 
 ```sh
-git clone https://github.com/lucasweng/yelp-camp.git
+git clone https://github.com/sumukhahs03/YelpCamp.git
 ```
 
 ### Install dependencies
